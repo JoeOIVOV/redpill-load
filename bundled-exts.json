@@ -1,4 +1,5 @@
 {
   "thethorgroup.virtio": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/rpext-index.json",
   "thethorgroup.boot-wait": "https://github.com/jumkey/redpill-load/raw/develop/redpill-boot-wait/rpext-index.json"
+  "pocopico.r8101": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8101/rpext-index.json"
 }
